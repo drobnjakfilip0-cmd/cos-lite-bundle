@@ -136,4 +136,4 @@ $ charmcraft release cos-lite --channel=edge --revision=4
 
 
 [cross-model relations]: https://documentation.ubuntu.com/juju/latest/reference/relation/index.html#cross-model
-[tutorial]: https://documentation.ubuntu.com/observability/tutorial/installation/getting-started-with-cos-lite/
+[tutorial]: https://documentation.ubuntu.com/observability/track-3.0/tutorial/cos-canonical-k8s-sandbox/
